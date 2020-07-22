@@ -5,7 +5,7 @@ footer {
   text-align: center;
   color: black;
   padding: 60px 0;
-  margin: auto;
+  margin-bottom: auto;
 }
 @media (max-width: 700px) {
   footer {

@@ -7,7 +7,7 @@
 
 .text {
   text-align: center;
-  margin-top: 25%;
+  margin-top: 20%;
   margin-bottom: 40px;
 }
 
@@ -53,9 +53,9 @@
 }
 
 .card-content {
-  text-align: center;
+  text-align: left;
   font-weight: 400;
-  margin-bottom: 20px;
+  margin: 20px 10px;
 }
 
 button {
