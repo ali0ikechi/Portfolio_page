@@ -5,7 +5,7 @@ footer {
   text-align: center;
   color: black;
   padding: 60px 0;
-  margin-top: auto;
+  margin: auto;
 }
 @media (max-width: 700px) {
   footer {
@@ -26,6 +26,10 @@ footer ul li {
 
 footer i {
   color: #7678ed;
+}
+
+footer i:hover {
+  color: #f0a6ca;
 }
 
 footer p {
